@@ -1,3 +1,3 @@
-#Turist Site 
+Turist Site 
 
-Seguindo desafio prático do curso fullstack da Rocketseat
+Desafio prático do curso fullstack da Rocketseat
